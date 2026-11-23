@@ -1,0 +1,174 @@
+.aa{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    overflow-x:hidden ;
+}
+.img1{
+    display: flex;
+    
+   justify-content: space-evenly;
+   width: 50%;
+    
+   
+}
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    
+}
+
+
+.d{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.tor{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+.vv{
+    display: flex;
+   gap: 50px;
+    font-size: 10px;
+    margin-left: 20px;
+}
+.w2{
+    width: 50%;
+}
+.w3{
+    width: 50%;
+    background-color:#f9d15c;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+   
+    font-size: 40px;
+        
+}
+.wl{
+    width: 400px;
+    font-size: 15px;
+}
+.hilton{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 170px;
+}
+.surat5{
+    display: flex;
+    margin-top: 70px;
+
+}
+.cod{
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgb(206, 200, 200);
+    width: 20%;
+    text-align: center;
+    height: 280px;
+    padding-top: 30px;
+}
+.zz{
+    border: 1px solid rgb(184, 183, 183);
+    box-shadow: 1px 1px 3px rgb(222, 213, 213);
+    width: 30%;
+    border-radius: 20px;
+    text-align: start;
+}
+.kaz{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.cc{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.but{
+    display: flex;
+    /* justify-content: space-evenly; */
+   
+    background-color: white;
+    margin-top: 20px;
+    
+}
+.cod5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.f1{
+    margin-top: -140px;
+    margin-left: 200px;
+    color: aliceblue;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.box1{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    
+    
+}
+.box5{
+ 
+}
+.box3{
+    margin-top: 10px;
+}
+.box4{
+    
+   margin-right: 200px;
+    width: 20%;
+}
+.mm{
+    display: flex;
+    justify-content: space-around;
+}
+.pk{
+    display: flex;
+    justify-content: space-between;
+    background-color: #eaeceb;
+    border-radius: 15px;
+    margin-top: 100px;
+    height: 600px;
+}
+.vb{
+    margin-left:50px;
+    padding-top: 50px;
+}
+.oxir{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.img32{
+    width: 40px;
+    height: 30px;
+    border: 1px solid ;
+    background-color: blue;
+    border-radius: 8px;
+    position: relative;
+    left: 200px;
+    bottom: 75px;
+}
+.h21{
+    width: 400px;
+    position: relative;
+    right: 150px;
+    top: 50px;
+}
